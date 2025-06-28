@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#f4a7b9"         # Soft pink
+backgroundColor = "#fff7f0"      # Cream background
+secondaryBackgroundColor = "#ffe6f0"  # Light blush
+textColor = "#403a3e"            # Calm dark brown
+font = "sans serif"
